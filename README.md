@@ -1,5 +1,6 @@
-# Digit-Classifier
-
+# Digit-Classifier Neural Network
+![Screen Shot 2022-07-22 at 5 23 50 PM](https://user-images.githubusercontent.com/90232501/180582946-ec550d7f-49b8-4451-953b-6e432b0eeb82.png)
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About
 - A simple neural network that can classify handwritten digits
