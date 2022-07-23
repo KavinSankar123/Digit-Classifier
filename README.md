@@ -1,5 +1,11 @@
 # Digit-Classifier Neural Network
 ![Screen Shot 2022-07-22 at 5 23 50 PM](https://user-images.githubusercontent.com/90232501/180582946-ec550d7f-49b8-4451-953b-6e432b0eeb82.png)
+
+### Quick Notes
+- The two CSV files uploaded above are merely files to give an intial test to the neural network to make sure there are no errors
+- The actual training & test data can be be downloaded through these links:
+  -  http://www.pjreddie.com/media/files/mnist_train.csv (training set of 60,000 images)
+  - http://www.pjreddie.com/media/files/mnist_test.csv (testing set of 10,000 images)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About
