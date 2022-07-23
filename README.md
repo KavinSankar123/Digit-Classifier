@@ -12,3 +12,9 @@
 - To familiarize myself with neural networks
 - To apply concepts that I learned through this project
 - To understand the underlying concepts/implementations that libraries like Tensorflow or Pytorch might abstract away
+
+## Resources Used
+- #### Here are the following resources I used to learn all the concepts
+  - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown
+  - https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G
+  - https://www.youtube.com/watch?v=oFTpK_v9llw&ab_channel=JamesOliver (4 part series)
